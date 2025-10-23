@@ -1,5 +1,5 @@
-# 💫👋 Hi there🤖
-<br>I’m Piyush Pradhan 👨‍💻 — a CSE student and an enthusiastic Frontend Developer focused on building modern, user-friendly websites.<br>➤Field of Study: Computer Science and Engineering 🖥️<br>➤Focus Areas: Software Development, IoT, and App Development 📱⚙️<br>➤Loves exploring new technologies and creative problem-solving<br>💡 Plus, many more fun and experimental projects!<br>🌍 Interests & Hobbies<br>➤🎮 Gaming<br>➤✈️ Travelling<br>➤🏍️ Riding
+# 👋Hi there🤖..
+<br>I’m Piyush Pradhan 👨‍💻 an enthusiastic Frontend Developer focused 🧠 on building modern, user-friendly websites.<br>➤Field of Study: Computer Science and Engineering 🖥️<br>➤Focus Areas: Software Development, IoT, and App Development 📱⚙️<br>➤Loves exploring new technologies and creative problem-solving<br>💡 Plus, many more fun and experimental projects!<br>🌍 Interests & Hobbies<br>➤🎮 Gaming<br>➤✈️ Travelling<br>➤🏍️ Riding
 
 
 ## 🌐 Socials:
